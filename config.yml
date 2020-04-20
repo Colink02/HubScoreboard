@@ -1,0 +1,12 @@
+scoreboard-animation:
+  enabled: true
+  text:
+    - "123"
+    - "1&423"
+    - "1&723"
+scoreboard-info:
+  static-name: "&6124"
+  ip: "&6example.com"
+  rank-static-text: "&9&lRank: "
+  balance-static-text: "&a&lBalance: "
+  players-static-text: "&d&lPlayers: "

@@ -1,0 +1,5 @@
+com\colink02dev\SimpleScoreboard\ScoreboardScheduler.class
+com\colink02dev\SimpleScoreboard\ScoreboardPlugin.class
+com\colink02dev\SimpleScoreboard\HubScoreboard.class
+com\colink02dev\SimpleScoreboard\ScoreboardUpdater.class
+com\colink02dev\SimpleScoreboard\PlayerEvents.class

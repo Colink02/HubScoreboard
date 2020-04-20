@@ -1,0 +1,9 @@
+  name: MainScoreboard
+  main: com.colink02dev.SimpleScoreboard.ScoreboardPlugin
+  version: 0.1.0
+  load: POSTWORLD
+  author: Colin Kinzel (Colink02Dev)
+  api-version: 1.15
+  depend:
+      - LuckPerms
+      - Vault
